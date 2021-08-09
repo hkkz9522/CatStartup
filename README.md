@@ -1,6 +1,5 @@
 # CatStartup
-用来实现开机启动Bongo Cat Mver.exe
-
+用来实现开机启动Bongo Cat
 使用说明：
 请把此程序放在Bongo Cat Mver.exe同一个目录
 如果Bongo Cat程序名字不是Bongo Cat Mver.exe
