@@ -17,5 +17,6 @@
 
 如果要移动Bongo Cat程序文件夹的位置，请移动完成后再次以管理员身份运行本程序
 
-
 请不要删除次程序，否则开机自启动会失效
+
+微步云沙箱查毒报告：https://s.threatbook.cn/report/file/5828ae8556e2958a1bbee2e6e4efaa3ae3141dd18bc260eb31a1a995886d540d/?env=win7_sp1_enx86_office2013
